@@ -39,7 +39,7 @@ Sou **PcD** e estou sempre buscando evoluir como profissional e como pessoa.
 
 ### 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/nicolas-nsr/)
+- [LinkedIn]([https://www.linkedin.com/in/nicolas-nsr/](https://www.linkedin.com/in/nicolas-seabra-da-rosa-204a3b155/))
 - [GitHub](https://github.com/Nicolas-nsr)
 
 ---
