@@ -6,34 +6,34 @@
 ### 🧠 Sobre mim
 
 Sou apaixonado por tecnologia, games e qualidade de software.  
-Atualmente trabalho como **QA Tester** na **PagoNxt (Santander)**, focado em testes funcionais, automação e APIs.  
-Sou **PcD** e estou sempre buscando evoluir como profissional e como pessoa.
+Atuo com **testes funcionais**, **validação de APIs** e apoio na qualidade em times ágeis.  
+Sou **PcD** e estou sempre buscando evoluir como profissional e como pessoa, com foco em entregar valor e confiabilidade nos produtos.
 
 ---
 
 ### 🎯 Objetivos
 
-- Aprimorar meus conhecimentos em **Python** e **Unreal Engine**
-- Contribuir com projetos open-source voltados para **acessibilidade**
-- Evoluir na área de **automação de testes**
+- Evoluir fortemente em **JavaScript**
+- Focar em automação com **Cypress** e **Selenium**
+- Aprimorar base em **Java**, pensando em automação mobile futuramente (Appium)
+- Fortalecer minha atuação em QA funcional e APIs
 
 ---
 
 ### 🛠️ Habilidades
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
 ---
 
 ### 📍 Localização
 
-📌 Cachoeirinha, RS – Brasil  
-🏢 PagoNxt | Santander
+📌 Cachoeirinha, RS – Brasil
 
 ---
 
