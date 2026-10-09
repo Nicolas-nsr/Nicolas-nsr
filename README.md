@@ -94,5 +94,10 @@ Ambiente financeiro global e regulado, com impacto LATAM. Testes funcionais, reg
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nicolas-nsr&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nicolas-nsr&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Nicolas-nsr&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-nsr&layout=compact&theme=dracula&hide_border=true&card_width=495" alt="Linguagens mais usadas" />
 </p>
