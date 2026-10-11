@@ -56,6 +56,8 @@ Ambiente financeiro global e regulado, com impacto LATAM. Testes funcionais, reg
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 
 **Também:** Zephyr, Tuskr, CI/CD, Metodologias Ágeis, Análise de Requisitos, IA aplicada a testes (Claude, Gemini)
 
