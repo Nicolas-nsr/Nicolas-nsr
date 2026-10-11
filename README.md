@@ -86,7 +86,9 @@ Ambiente financeiro global e regulado, com impacto LATAM. Testes funcionais, reg
 - 📧 [nickolascp@hotmail.com](mailto:nickolascp@hotmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-seabra-da-rosa-204a3b155/)
 - 🐙 [GitHub](https://github.com/Nicolas-nsr)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Nicolas-nsr&color=blue&style=flat-square&label=Profile+views" alt="Profile views" />
+</p>
 > Aberto a conexões, trocas profissionais e novas oportunidades em QA, produtos digitais e tecnologia.
 
 ---
@@ -94,9 +96,7 @@ Ambiente financeiro global e regulado, com impacto LATAM. Testes funcionais, reg
 ### 📊 GitHub Stats
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nicolas-nsr&color=blue&style=flat-square&label=Profile+views" alt="Profile views" />
-</p>
+
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nicolas-nsr&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
